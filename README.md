@@ -1,3 +1,4 @@
+```
 meu-projeto/
 ├── src/
 ├── assets/ 
@@ -8,3 +9,4 @@ meu-projeto/
 ├── docs/
 ├── README.md
 ├── .gitignore
+```
